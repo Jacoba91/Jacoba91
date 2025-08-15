@@ -1,46 +1,47 @@
 # Hi there! I'm Jacob Aragao.
 
 ### About Me
-I am a **3rd year Software Engineering student** at McGill University with a strong passion for building impactful and efficient software solutions. Currently, I am working as a **Junior Software Developer** at [Clearer.io](https://clearer.io), where I collaborate with a talented team on the [Rich Returns](https://www.richreturns.io/) shopify app.
+I am a **4th year Software Engineering student** at McGill University passionate about building impactful and reliable software solutions. I enjoy working across the stack, solving challenging problems, and delivering features that make a difference for users.
 
 ### What I Do
-- 🚀 **Backend Development**: Skilled in designing scalable and efficient backend systems using modern frameworks and technologies.
-- 💻 **Frontend Development**: Experienced in creating intuitive user interfaces that enhance user experience.
-- 🔗 **API Integration**: Proficient in integrating third-party APIs to extend app functionalities and improve workflows.
+- 🚀 **Backend Development**: Designing scalable APIs, integrating with cloud services, and ensuring high-performance server-side systems.  
+- 💻 **Frontend Development**: Creating responsive, intuitive UIs with modern frameworks like React and SolidJS.  
+- 🔗 **API Integration**: Implementing and optimizing third-party integrations to extend product capabilities.  
+- ✅ **Quality & Testing**: Writing unit tests and ensuring code coverage standards are met to maintain reliability.  
 
 ### Tools & Technologies
-- 🛠️ **Programming Languages**: JavaScript, Python, Java, C
-- ⚙️ **Frameworks**: React, Node.js, Express.js, Flask
-- 🗄️ **Databases**: PostgreSQL, MySQL
+- 🛠️ **Programming Languages**: JavaScript, TypeScript, Python, Java, C  
+- ⚙️ **Frameworks**: React, SolidJS, Node.js, Express.js, Flask  
+- 🗄️ **Databases**: PostgreSQL, MySQL  
+- ☁️ **Other Tools**: GitLab, GitHub, AWS S3, Stripe, Figma, Vitest
+
+### Work Experience
+- **Software Engineering Intern – Carehive (05/2025 – 08/2025)**  
+  - Built a production-ready reminder engine using SolidJS, translating business rules into technical requirements.  
+  - Collaborated with senior developers and stakeholders to ensure alignment between product vision and implementation.  
+  - Wrote thorough unit tests to maintain code coverage standards.
+
+- **Junior Software Engineer – Clearer.io (09/2024 – 04/2025)**  
+  - Developed and shipped full-stack features for the Rich Returns Shopify app using JavaScript, React, Node.js, and PostgreSQL.  
+  - Created the “Instant Exchanges” feature, integrating Stripe payments into the return flow.  
+  - Enhanced shipment tracking with real-time status updates and API integrations.
+
+- **Software Engineering Intern – Clearer.io (05/2024 – 08/2024)**  
+  - Built a full-stack solution to remove photo references across the UI, database, and AWS S3.  
+  - Executed a production database migration with zero downtime.  
+  - Authored technical documentation to improve onboarding efficiency.
 
 ### Projects
 - 🏈 **FantasyGuide**: [Project Link](https://github.com/Jacoba91/FantasyGuide) | React / Flask / SQL  
-  - Built a full-stack fantasy football optimization tool using React, Flask, and SQL, automating player data collection with BeautifulSoup and Pandas.  
-  - Developed and optimized HTTP requests for seamless data exchange between the front-end and back-end, ensuring efficient data retrieval from a database of 600+ players.  
-  - Integrated OpenAI’s API to provide AI-driven roster recommendations, enhancing user engagement with personalized insights.
+  - Built a full-stack fantasy football optimization tool, automating player data collection with BeautifulSoup and Pandas.  
+  - Developed optimized HTTP requests for seamless data exchange and integrated OpenAI’s API for AI-driven roster recommendations.  
 
 - 🤖 **Techbytes Foundation** | Machine Learning and Data Science Projects (05/2023 - 08/2023)  
-  - Applied machine learning algorithms (DFS, BFS, A*) and reinforcement learning techniques (MDP, value iteration, Q-learning) to develop a basic GPS navigation system.  
-  - Gained proficiency in data science, implementing data visualization techniques to analyze and present election results effectively.
+  - Applied search algorithms (DFS, BFS, A*) and reinforcement learning techniques (MDP, value iteration, Q-learning) to develop a basic GPS navigation system.  
+  - Created data visualizations to analyze and present election results effectively.  
 
 ### Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jacob-aragao-710664255/)
-- 📧 Email: jacobaragao1@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jacob-aragao-710664255/)  
+- 📧 Email: jacobaragao1@gmail.com  
 
 Thanks for visiting my portfolio! Feel free to check out my projects and reach out if you'd like to collaborate.
-
-
-<!--
-**Jacoba91/Jacoba91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
