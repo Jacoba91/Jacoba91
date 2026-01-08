@@ -4,16 +4,16 @@
 I am a **4th year Software Engineering student** at McGill University passionate about building impactful and reliable software solutions. I enjoy working across the stack, solving challenging problems, and delivering features that make a difference for users.
 
 ### What I Do
-- 🚀 **Backend Development**: Designing scalable APIs, integrating with cloud services, and ensuring high-performance server-side systems.  
-- 💻 **Frontend Development**: Creating responsive, intuitive UIs with modern frameworks like React and SolidJS.  
-- 🔗 **API Integration**: Implementing and optimizing third-party integrations to extend product capabilities.  
-- ✅ **Quality & Testing**: Writing unit tests and ensuring code coverage standards are met to maintain reliability.  
+- **Backend Development**: Designing scalable APIs, integrating with cloud services, and ensuring high-performance server-side systems.  
+- **Frontend Development**: Creating responsive, intuitive UIs with modern frameworks like React and SolidJS.  
+- **API Integration**: Implementing and optimizing third-party integrations to extend product capabilities.  
+- **Quality & Testing**: Writing unit tests and ensuring code coverage standards are met to maintain reliability.  
 
 ### Tools & Technologies
-- 🛠️ **Programming Languages**: JavaScript, TypeScript, Python, Java, C  
-- ⚙️ **Frameworks**: React, SolidJS, Node.js, Express.js, Flask  
-- 🗄️ **Databases**: PostgreSQL, MySQL  
-- ☁️ **Other Tools**: GitLab, GitHub, AWS S3, Stripe, Figma, Vitest
+- **Programming Languages**: JavaScript, TypeScript, Python, Java, C  
+- **Frameworks**: React, SolidJS, Node.js, Express.js, Flask  
+- **Databases**: PostgreSQL, MySQL, Firestore NoSQL
+- **Other Tools**: GitLab, GitHub, AWS S3, Stripe, Figma, Vitest, unittest, Docker
 
 ### Work Experience
 - **Software Engineering Intern – Carehive (05/2025 – 08/2025)**  
@@ -41,7 +41,7 @@ I am a **4th year Software Engineering student** at McGill University passionate
   - Created data visualizations to analyze and present election results effectively.  
 
 ### Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jacob-aragao-710664255/)  
-- 📧 Email: jacobaragao1@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/jacob-aragao-710664255/)  
+- Email: jacobaragao1@gmail.com  
 
 Thanks for visiting my portfolio! Feel free to check out my projects and reach out if you'd like to collaborate.
